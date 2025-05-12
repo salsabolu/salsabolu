@@ -1,12 +1,10 @@
 <!-- Introduction -->
 <h2 align="center">🌻 Hai, Bila di sini</h2>
 <p align="center">Gemar mengorganisir semua hal, mulai dari folder, file, hingga playlist🎧</p>
-<p>🎯 Tertarik mendalami UI/UX dan Frontend baik mobile maupun website</p>
-<p>📑 Saat ini sedang mempelajari Flutter dan Laravel</p>
-<p>📔 Mahasiswi Semester 4, Prodi D3 Teknik Informatika</p>
 <p>🏫 Politeknik Elektronika Negeri Surabaya (PENS)</p>
-
-
+<p>📔 Mahasiswi Semester 4, Prodi D3 Teknik Informatika</p>
+<p>📑 Saat ini sedang mempelajari Flutter dan Laravel</p>
+<p>🎯 Tertarik mendalami UI/UX dan Frontend baik mobile maupun website</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
